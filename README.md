@@ -9,4 +9,4 @@ An ant leaves its anthill in order to forage for food. It moves with the speed o
 Can you write a program that comes up with an estimate of average time to find food for any closed boundary around the anthill? What would be the answer if food is located outside the boundary defined by 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%28x-2.5%29%5E2%7D%7B30%5E2%7D%20&plus;%20%5Cfrac%7B%28y-2.5%29%5E2%7D%7B40%5E2%7D%20%3C%201) (lengths in cm) in coordinate system where the anthill is located at (x = 0 cm, y = 0 cm)? Provide us with a solution rounded to the nearest integer.
 
-(For solution, see `stopping_time_2d_random_walk.ipynb`)
+(For solution, see `stopping_time_2d_random_walk.pdf`)
